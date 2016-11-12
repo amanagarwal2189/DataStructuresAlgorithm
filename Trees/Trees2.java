@@ -17,7 +17,7 @@ public class Trees2{
 
 	public static void main(String[] arr){
 		Trees2 t2= new Trees2();
-		MakeTree m= new MakeTree();
+		MakeTree2 m= new MakeTree2();
 		TreeDS d = m.makeTreeInput();
 		ArrayList<Integer> a = t2.getTopView(d);
 		t2.print(a);

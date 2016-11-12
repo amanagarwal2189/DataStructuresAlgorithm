@@ -1,5 +1,5 @@
 
-public class MakeTree{
+public class MakeTree2{
 	public TreeDS makeTreeInput(){
 		TreeDS root = new TreeDS();
 		TreeDS node1 = new TreeDS();
